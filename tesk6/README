@@ -1,0 +1,13 @@
+Tesk instruction:
+
+This tesk is used to generate train images and test images for faster-rcnn images is stored as 'hdf5' and image information is stored as 'json' in binary
+
+save:  Images
+
+train_img.hdf5:  Images stored as binary
+train.json:  Image information
+
+image.py:  Generate images
+
+x_train.npy:  Images
+y_train.npy:  Labels

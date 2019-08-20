@@ -1,0 +1,17 @@
+Tesk instruction:
+
+8_15:  Poor effect
+8_17:  Through image normalization, Non-Maximum Suppression and reduction of learning rate this tesk has a better effectt
+
+frcnn:  The main functional part of faster-rcnn
+model:  Save model and records and config
+predict_image:  Save images processed by faster-rcnn
+train_image:  Train images
+validation_image:  Test images
+
+faster_rcnn.py:  Main part of training model
+test.py:  Generate the processed image and calculate the mAP
+test2.py:  Generate charts by records
+
+train_info_c.txt:  Train information
+validation_info_c.txt:  Test information

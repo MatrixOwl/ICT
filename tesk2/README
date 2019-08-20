@@ -1,0 +1,17 @@
+Tesk instruction:
+
+This tesk is base on Keras(keras_deal.py) and Tensorflow(tf_deal.py) 
+The data set using both MNIST and our own handwritten numbers
+
+Images:  Test image
+mnist:  Mnist data file
+save:  Model after training
+
+keras_deal.py:  Training program based on Keras
+tf_deal.py:  Training program based on tensorflow
+tf_handwriting.py: Test program
+tf_image.py:  Image preprocessing
+tf_image_deal.py:  Image preprocessing
+
+x_train.npy:  Images
+y_train.npy:  Labels

@@ -1,0 +1,10 @@
+Tesk instruction:
+
+This tesk is base on KMeans
+
+Image_data:  Orainal images
+Image_result1:  Images processed by Lib_test1.py 
+Image_result2:  Images processed by Lib_test2.py
+
+Lib_test1.py:  Different types of parts are divided into different images
+Lib_test2.py:  Different types of parts are colored differently

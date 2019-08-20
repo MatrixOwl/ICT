@@ -1,0 +1,11 @@
+Tesk instruction:
+
+This tesk is base on Keras(keras_deal2.py)
+The data set only using our own handwritten numbers as well as using data enhancements
+
+save:  Model after training
+
+keras_deal2.py:  Training program
+keras_deal_Den.py: Training program using a simpler network structure(but the effect is poor)
+
+all_data.npy:  Both images and labels

@@ -1,0 +1,15 @@
+Tesk instruction:
+
+This tesk is base on Keras(keras_deal_3.py)
+Using after training model to make a migration learning
+
+save:  Model after training
+
+k_deal.py:  After training program(same with tesk2's program)
+keras_deal_3.py:  Training program
+
+model_b.h5:  After traing model(best)
+
+all_data.npy:  Both images and labels
+x_train.npy:  Images
+y_train.npy:  Labels
